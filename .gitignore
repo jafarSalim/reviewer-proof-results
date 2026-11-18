@@ -1,0 +1,5 @@
+*.asv
+*.mat
+octave-workspace
+__pycache__/
+.pytest_cache/
